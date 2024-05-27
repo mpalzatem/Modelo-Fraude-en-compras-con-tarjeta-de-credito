@@ -1,3 +1,7 @@
+**VIDEO EXPLICACIÓN**
+https://youtu.be/WWpGcIIpA9U
+
+
 **MODELOS**
 
 Para la identificación de la probabilidad de fraude en tarjetas de créditos en diferentes comercios en Estados Unidos desde el 1 de enero de 2019
