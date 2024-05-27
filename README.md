@@ -1,15 +1,16 @@
 **MODELOS**
+
 Para la identificación de la probabilidad de fraude en tarjetas de créditos en diferentes comercios en Estados Unidos desde el 1 de enero de 2019
  hasta el 31 de diciembre de 2020, se utilizará dos modelos de clasificación, el primero fue del tipo KNN Means para analizar su correlación significativa  
 y el segundo es el modelo Neuronal Madaline para realizar el pronóstico
 
 **BASES DE DATOS**
+
 La base original contenía más de mil datos e información de diversos estados, pero esta se modificó a la información de los comercios del estado de Florida, por lo que esta 
 se redujo a 226 datos. Además, las variables cualitativas se modificaron en cuantitativas para poder trabajarlas en los modelos. 
 
 **ANÁLISIS DE LOS RESULTADOS**
 
-**ANÁLISIS**
 
 Para analizar la base de datos 'Data Fraud', la cual contiene información sobre casos de fraude en tarjetas de crédito en diferentes comercios en Estados Unidos, decidimos(en el Estado de Florida) seleccionamos las siguientes variables: 'gender','category','city','state','job','amt'y 'is_fraud'.
 
